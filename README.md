@@ -24,6 +24,7 @@ Move on to next board.
 
 Here are some issues that I'm experiencing:
 Non-Full boards are not being evaluated in calculateNimber even though they are apparently correctly identified and added to the linked list in isolate. (By non-full board I mean any AxB sized piece which doesn't not have A times B area). Take a look at what gets printed to see what I mean.
+I'm hoping that that's the only issue with the program but I might be forgetting something at the moment.
 
 What you see if it prints:
 Table Index is printed when the Hash Table gets printed at the end of the program.
